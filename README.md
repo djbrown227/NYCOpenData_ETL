@@ -1,4 +1,3 @@
-Here's a solid `README.md` for your project that explains its purpose, guides users through setup, and emphasizes its value as a reusable template:
 
 ---
 
